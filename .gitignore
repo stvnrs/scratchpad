@@ -1,0 +1,18 @@
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+### VisualStudio ###
+.vs/
+
+### dotnet ###
+bin/
+obj/
+
+### c-sharp ###
+*.csproj.user

@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Version>0.1.4</Version>
+    <Authors>@stvnrs</Authors>
+    <ApplicationIcon>padlock.ico</ApplicationIcon>
+  </PropertyGroup>
+
+
+</Project>
